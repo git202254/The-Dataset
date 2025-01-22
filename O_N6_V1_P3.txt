@@ -1,0 +1,18 @@
+numofNodes: 6
+numofPeriods: 3
+VehicleNum: 1
+VehicleCapacity: 360
+Node	X    Y      InvCost  	 InitialInv  	MinLevelInv	MaxLevelInv	Demand0     Demand1     Demand2     
+0	213	184	0.5	253	0	956	359	238	274	
+1	280	278	0.67	56	0	188	94	21	47	
+2	447	15	0.53	54	0	180	84	90	55	
+3	495	435	0.75	36	0	180	60	51	19	
+4	46	484	0.62	30	0	150	35	55	75	
+5	74	407	0.59	77	0	258	86	21	78	
+CostMatrix
+0 115 288 377 343 262 
+115 0 311 266 311 243 
+288 311 0 422 617 541 
+377 266 422 0 451 421 
+343 311 617 451 0 81 
+262 243 541 421 81 0 
